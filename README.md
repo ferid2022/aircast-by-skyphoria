@@ -71,7 +71,7 @@ aircast-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/feridmirzeliyev/aircast-ai.git
+git clone https://github.com/ferid2022/aircast-by-skyphoria.git
 cd aircast-ai
 
 
@@ -143,6 +143,7 @@ LightGBM
 
 Streamlit
  — interactive app framework for data science
+
 
 
 
